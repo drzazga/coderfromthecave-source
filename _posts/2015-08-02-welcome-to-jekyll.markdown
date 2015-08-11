@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to coderfromthecave.com"
 date:   2015-08-02 13:36:31
 categories: jekyll update
 ---
